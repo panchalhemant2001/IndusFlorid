@@ -16,7 +16,7 @@
 
 
 /* variable DIRSERVERNAME holding the server name. */
-	define('DIRSERVERNAME', 'http://' . $_SERVER['SERVER_NAME'] . '/');
+	define('DIRSERVERNAME', 'http://' . $_SERVER['SERVER_NAME'] . ':8082/');
 
 /* Defining variables holding the paths to images, css and javascripts. */
 	define('DIRIMAGES', '../images/');

@@ -1,0 +1,31 @@
+/* CSS Document */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	margin: 0px;
+	border-style:outset;
+	border-color: blue;
+	border-width: 5px;
+}
+
+#header {
+	background-color: #C99;
+	width: 100%;
+	min-height: 100px;
+	margin: 0px;
+}
+
+#contentsection {
+	min-height: 320px;
+	width: 100%;
+	margin: 0px;
+}
+
+#footer {
+	background-color: #CC3;
+	width: 100%;
+	min-height: 100px;
+}
