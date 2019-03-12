@@ -4,4 +4,6 @@
 
 The site is developed using PHP/MySQL.
 
-This project has 2 contributors 
+## Contributors
+Ankit Panchal
+Hemantkumar Panchal
